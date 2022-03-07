@@ -1,0 +1,29 @@
+<ItemPools>
+    <Pool Name="treasure">
+        <Item Name="Book of Despair" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Donkey Jawbone" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Stone Bombs" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="library">
+        <Item Name="Book of Despair" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="greedTreasure">
+        <Item Name="Book of Despair" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Donkey Jawbone" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Stone Bombs" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+	<Pool Name="ultraSecret">
+		<Item Name="Book of Despair" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
+	</Pool>
+    <Pool Name="angel">
+        <Item Name="Menorah" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Bowl of Tears" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="greedAngel">
+        <Item Name="Menorah" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Bowl of Tears" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+	<Pool Name="bombBum">
+        <Item Name="Stone Bombs" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+    </Pool>
+</ItemPools>

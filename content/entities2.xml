@@ -1,0 +1,5 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="donkeyjawbone.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="75" friction="1" id="2" name="Antibirth Donkey Jawbone" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="1001">
+		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	</entity>
+</entities>

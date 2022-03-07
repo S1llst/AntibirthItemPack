@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+	<costume id="3" anm2path="donkeyjawbone_costume.anm2" type="passive" />
+</costumes>

@@ -1,0 +1,7 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/death items.anm2">
+	<active id="1" cache="firedelay" name="Book of Despair" description="Temporary tears up" gfx="collectibles_001_bookofdespair.png" maxcharges="3" quality="3" tags="book offensive" />
+	<active	id="2"  name="Bowl of Tears" description="Splash!" gfx="collectibles_005_bowloftears.png" maxcharges="6" chargetype="special" quality="1" tags="offensive"/>
+	<passive id="3" name="Donkey Jawbone" description="Come at me!" gfx="donkeyjawbone.png" achievement="452" quality="3" tags="nolostbr summonable"/>
+    <familiar id="4" cache="firedelay" name="Menorah" description="Shot multiplier" gfx="collectibles_003_menorah.png" quality="4" tags="uniquefamiliar summonable nolostbr"/>
+	<passive id="5" name="Stone Bombs" description="Rock blast +5 bombs" gfx="collectibles_002_stonebombs.png" bombs="5" quality="2" tags="summonable offensive"/> />
+</items>
